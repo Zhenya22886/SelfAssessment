@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
+  - value🖐️ used
+  - identifier🖐️ used
+  - variable🖐️ used
+  - constant🖐️ used
+  - scalar🖐️ used
+  - literal🖐️ used
+  - expression🖐️ used
+  - heap🖐️ used
+  - function🖐️ used
+  - procedure👂 heard
+  - method👂 heard
+  - class🖐️ used
   - prototype
   - event
-  - type
+  - type🖐️ used
   - primitive types
   - reference types
   - flag
   - lexical scope
   - code block
   - conditions
-  - loops
+  - loops👂 heard
   - assignment
   - regular expression
   - interface
@@ -30,9 +30,9 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature🖐️ used
+  - argument🖐️ used
+  - parameter🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -53,15 +53,15 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
+  - array🖐️ used
+  - structure🖐️ used
+  - record🖐️ used
+  - enum🖐️ used
   - instance
   - object
-  - class
+  - class🖐️ used
   - collection
-  - set
+  - set🖐️ used
   - hash table
   - linked list
   - doubly list
@@ -78,13 +78,13 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
-  - linter
+  - compiler🖐️ used
+  - transpiler🖐️ used
+  - linter🖐️ used
   - polyfill
-  - debugger
+  - debugger🖐️ used
   - garbage collection
-  - refactoring
+  - refactoring🖐️ used
   - code review
   - antipatterns
   - paradigm
@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git
-  - github
+  - github👂 heard

@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
+  - Object👂 heard
+  - this👂 heard
+  - arrow function👂 heard
+  - async function👂 heard
+  - call👂 heard
+  - bind👂 heard
+  - apply👂 heard
+  - instanceof👂 heard
   - ...spread
   - ...rest
-  - typeof
+  - typeof👂 heard
   - destructuring
-  - generator
-  - iterator
+  - generator👂 heard
+  - iterator👂 heard
   - async generator
   - async iterator
   - chaining
@@ -41,15 +41,15 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
+  - if👂 heard
+  - while👂 heard
+  - do..while👂 heard
+  - for👂 heard
+  - for..in👂 heard
+  - for..of👂 heard
+  - for await👂 heard
+  - throw👂 heard
+  - break👂 heard
   - continue
   - import
   - export
@@ -60,18 +60,18 @@
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration👂 heard
   - function expression
-  - return
+  - return👂 heard
   - default parameters
   - functional object
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
+  - Array👂 heard
+  - mixin👂 heard
+  - extend👂 heard
+  - typed arrays👂 heard
+  - Map👂 heard
+  - Set👂 heard
   - undefined
   - null
   - Proxy
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js👂 heard
   - npm
   - prettier
   - MDN

@@ -1,21 +1,21 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value👂 heard
+  - identifier👂 heard
+  - variable👂 heard
+  - constant👂 heard
   - scalar
   - literal
   - expression
-  - heap
-  - function
-  - procedure
+  - heap👂 heard
+  - function👂 heard
+  - procedure👂 heard
   - method
-  - class
+  - class👂 heard
   - prototype
   - event
-  - type
+  - type👂 heard
   - primitive types
   - reference types
   - flag
@@ -30,18 +30,18 @@
   - module
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
+  - signature👂 heard
+  - argument👂 heard
+  - parameter👂 heard
+  - pure function👂 heard
   - lambda expression
   - side effects
-  - closure
+  - closure👂 heard
   - partial application
   - curry
   - higher order
   - recursion
-  - callback
+  - callback👂 heard
   - listener
   - compose
   - pipe
@@ -53,15 +53,15 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
+  - array👂 heard
+  - structure👂 heard
+  - record👂 heard
+  - enum👂 heard
+  - instance👂 heard
   - object
-  - class
+  - class👂 heard
   - collection
-  - set
+  - set👂 heard
   - hash table
   - linked list
   - doubly list
@@ -70,7 +70,7 @@
   - queue
   - stack
   - deque
-  - tree
+  - tree👂 heard
   - graph
   - iterator
   - mutable state
@@ -78,18 +78,18 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
+  - compiler👂 heard
+  - transpiler👂 heard
+  - linter👂 heard
+  - polyfill👂 heard
+  - debugger👂 heard
+  - garbage collection👂 heard
+  - refactoring👂 heard
+  - code review👂 heard
   - antipatterns
   - paradigm
   - algorithm
-  - magic numbers
+  - magic numbers👂 heard
   - hardcode
   - complexity
   - decomposition
@@ -103,4 +103,4 @@
   - return early
   - unittest
   - git
-  - github
+  - github👂 heard

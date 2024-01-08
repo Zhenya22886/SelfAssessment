@@ -1,24 +1,24 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
+  - Object🙋 explained
+  - this🙋 explained
+  - arrow function🖐️ used
+  - async function🖐️ used
+  - call🙋 explained
+  - bind🙋 explained
+  - apply🙋 explained
+  - instanceof🖐️ used
+  - ...spread👂 heard
+  - ...rest👂 heard
   - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - destructuring👂 heard
+  - generator👂 heard
+  - iterator👂 heard
+  - async generator👂 heard
+  - async iterator👂 heard
+  - chaining👂 heard
+  - optional chaining👂 heard
   - IIFE
   - global
   - globalThis
@@ -41,17 +41,17 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if🖐️ used
+  - while🖐️ used
+  - do..while🖐️ used
+  - for🖐️ used
   - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
+  - for..of🖐️ used
+  - for await🖐️ used
+  - throw👂 heard
+  - break👂 heard
+  - continue👂 heard
+  - import👂 heard
   - export
   - label
   - try..catch
@@ -60,21 +60,21 @@
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration🖐️ used
+  - function expression👂 heard
+  - return🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Array🖐️ used
+  - mixin🖐️ used
+  - extend🖐️ used
+  - typed arrays👂 heard
+  - Map🖐️ used
+  - Set🖐️ used
+  - undefined👂 heard
+  - null🖐️ used
+  - Proxy👂 heard
   - weak collections
   - timers
   - EventEmitter
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js👂 heard
   - npm
   - prettier
   - MDN

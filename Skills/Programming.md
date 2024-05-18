@@ -1,21 +1,21 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value👂 heard
-  - identifier👂 heard
-  - variable👂 heard
-  - constant👂 heard
-  - scalar
-  - literal
+  - value🎓 known
+  - identifier🎓 known
+  - variable🎓 known
+  - constant🎓 known
+  - scalar 🎓 known
+  - literal 🎓 known
   - expression
   - heap👂 heard
-  - function👂 heard
+  - function🎓 known
   - procedure👂 heard
-  - method
+  - method 🎓 known
   - class👂 heard
-  - prototype
+  - prototype  🎓 known
   - event
-  - type👂 heard
+  - type🎓 known
   - primitive types
   - reference types
   - flag
@@ -58,9 +58,9 @@
   - record👂 heard
   - enum👂 heard
   - instance👂 heard
-  - object
+  - object 👂 heard
   - class👂 heard
-  - collection
+  - collection 👂 heard
   - set👂 heard
   - hash table
   - linked list
@@ -68,10 +68,10 @@
   - unrolled list
   - circular list
   - queue
-  - stack
+  - stack 👂 heard
   - deque
   - tree👂 heard
-  - graph
+  - graph 🎓 known
   - iterator
   - mutable state
   - immutable state
@@ -102,5 +102,5 @@
   - exception
   - return early
   - unittest
-  - git
-  - github👂 heard
+  - git 🎓 known
+  - github🎓 known

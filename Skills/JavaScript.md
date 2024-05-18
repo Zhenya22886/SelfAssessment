@@ -1,17 +1,17 @@
 ## JavaScript
 
 - Language
-  - Object👂 heard
-  - this👂 heard
-  - arrow function👂 heard
-  - async function👂 heard
+  - Object🖐️ used
+  - this🖐️ used
+  - arrow function🖐️ used
+  - async function🖐️ used
   - call👂 heard
   - bind👂 heard
   - apply👂 heard
   - instanceof👂 heard
   - ...spread
   - ...rest
-  - typeof👂 heard
+  - typeof🖐️ used
   - destructuring
   - generator👂 heard
   - iterator👂 heard
@@ -20,8 +20,8 @@
   - chaining
   - optional chaining
   - IIFE
-  - global
-  - globalThis
+  - global  👂 heard
+  - globalThis 👂 heard
   - window
   - getters and setters
   - __proto__
@@ -34,56 +34,56 @@
   - yield
   - await
   - template literal
-  - strict mode
+  - strict mode 👂 heard
   - delete
   - in
   - super
   - Symbol
   - Reflect
 - Statements
-  - if👂 heard
-  - while👂 heard
-  - do..while👂 heard
-  - for👂 heard
-  - for..in👂 heard
-  - for..of👂 heard
+  - if🖐️ used
+  - while🖐️ used
+  - do..while🖐️ used
+  - for🖐️ usedd
+  - for..in🖐️ usedd
+  - for..of🖐️ used
   - for await👂 heard
-  - throw👂 heard
-  - break👂 heard
-  - continue
-  - import
-  - export
+  - throw🖐️ used
+  - break🖐️ used
+  - continue 🖐️ used
+  - import👂 heard
+  - export👂 heard
   - label
   - try..catch
-  - switch
+  - switch 🖐️ used
   - class
   - new Error
   - with
 - Functions
-  - function declaration👂 heard
-  - function expression
-  - return👂 heard
-  - default parameters
+  - function declaration🖐️ used
+  - function expression 🖐️ used
+  - return🖐️ used
+  - default parameters 🖐️ used
   - functional object
 - Data structures
-  - Array👂 heard
+  - Array🖐️ used
   - mixin👂 heard
   - extend👂 heard
   - typed arrays👂 heard
-  - Map👂 heard
-  - Set👂 heard
-  - undefined
-  - null
+  - Map🖐️ used
+  - Set🖐️ used
+  - undefined  👂 heard
+  - null 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers🖐️ used
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date 👂 heard
+  - BigInt 👂 heard
 - Infrastructure
   - V8
   - Node.js👂 heard
-  - npm
+  - npm 👂 heard
   - prettier
   - MDN
